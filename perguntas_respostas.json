@@ -1,0 +1,1602 @@
+[
+  {
+    "pergunta": "Quais são os é o nome do curso?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Qual título é conferido ao egresso do formação?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Quantas horas de carga horária mínima o graduação possui?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Qual é a duração média do graduação em semestres?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Pode-se saber é o turno de funcionamento do curso?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Quantas vagas são ofertadas anualmente no formação?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Quais são os objetivos gerais do graduação?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Quais são os dois eixos de formação optativos do curso?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Que é a carga horária mínima de extensão exigida?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Quais são os componentes da carga horária de extensão?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Pode-se saber é a carga horária do estágio obrigatório?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Quais são os requisitos para iniciar o estágio obrigatório?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Quais são os critérios de avaliação do estágio obrigatório?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Qual é a nota mínima para aprovação na disciplina de estágio?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "O que o aluno deve fazer se não for aprovado na disciplina de estágio?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "É possível validar o estágio com experiência profissional?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Quais são os principais conteúdos abordados no curso?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Que é o perfil esperado do egresso do graduação?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Como a internacionalização é promovida no curso?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Que disciplina trata de sustentabilidade no graduação?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Que é o nome do formação?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Pode-se saber título é conferido ao egresso do graduação?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Quantas horas de carga horária mínima o curso possui?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Qual é a duração média do graduação em semestres?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Que é o turno de funcionamento do curso?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Quantas vagas são ofertadas anualmente no graduação?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Quais são os objetivos gerais do formação?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Quais são os dois eixos de formação optativos do curso?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Pode-se saber é a carga horária mínima de extensão exigida?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Quais são os componentes da carga horária de extensão?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Pode-se saber é a carga horária do estágio obrigatório?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Quais são os requisitos para iniciar o estágio obrigatório?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Quais são os critérios de avaliação do estágio obrigatório?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Qual é a nota mínima para aprovação na disciplina de estágio?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "O que o aluno deve fazer se não for aprovado na disciplina de estágio?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "É possível validar o estágio com experiência profissional?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Quais são os principais conteúdos abordados no graduação?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Qual é o perfil esperado do egresso do curso?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Como a internacionalização é promovida no formação?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Que disciplina trata de sustentabilidade no graduação?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Qual é o nome do formação?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Quais são os título é conferido ao egresso do curso?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Quantas horas de carga horária mínima o formação possui?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Qual é a duração média do graduação em semestres?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Pode-se saber é o turno de funcionamento do graduação?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Quantas vagas são ofertadas anualmente no curso?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Quais são os objetivos gerais do graduação?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Quais são os dois eixos de formação optativos do graduação?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Quais são os é a carga horária mínima de extensão exigida?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Quais são os componentes da carga horária de extensão?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Pode-se saber é a carga horária do estágio obrigatório?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Quais são os requisitos para iniciar o estágio obrigatório?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Quais são os critérios de avaliação do estágio obrigatório?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Que é a nota mínima para aprovação na disciplina de estágio?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "O que o aluno deve fazer se não for aprovado na disciplina de estágio?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "É possível validar o estágio com experiência profissional?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Quais são os principais conteúdos abordados no curso?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Que é o perfil esperado do egresso do graduação?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Como a internacionalização é promovida no formação?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Quais são os disciplina trata de sustentabilidade no formação?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Pode-se saber é o nome do formação?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Que título é conferido ao egresso do graduação?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Quantas horas de carga horária mínima o graduação possui?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Que é a duração média do curso em semestres?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Quais são os é o turno de funcionamento do curso?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Quantas vagas são ofertadas anualmente no formação?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Quais são os objetivos gerais do graduação?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Quais são os dois eixos de formação optativos do formação?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Qual é a carga horária mínima de extensão exigida?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Quais são os componentes da carga horária de extensão?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Pode-se saber é a carga horária do estágio obrigatório?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Quais são os requisitos para iniciar o estágio obrigatório?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Quais são os critérios de avaliação do estágio obrigatório?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Quais são os é a nota mínima para aprovação na disciplina de estágio?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "O que o aluno deve fazer se não for aprovado na disciplina de estágio?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "É possível validar o estágio com experiência profissional?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Quais são os principais conteúdos abordados no graduação?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Que é o perfil esperado do egresso do graduação?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Como a internacionalização é promovida no curso?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Que disciplina trata de sustentabilidade no formação?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Pode-se saber é o nome do formação?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Pode-se saber título é conferido ao egresso do curso?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Quantas horas de carga horária mínima o formação possui?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Pode-se saber é a duração média do graduação em semestres?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Pode-se saber é o turno de funcionamento do graduação?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Quantas vagas são ofertadas anualmente no curso?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Quais são os objetivos gerais do formação?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Quais são os dois eixos de formação optativos do graduação?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Qual é a carga horária mínima de extensão exigida?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Quais são os componentes da carga horária de extensão?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Pode-se saber é a carga horária do estágio obrigatório?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Quais são os requisitos para iniciar o estágio obrigatório?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Quais são os critérios de avaliação do estágio obrigatório?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Pode-se saber é a nota mínima para aprovação na disciplina de estágio?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "O que o aluno deve fazer se não for aprovado na disciplina de estágio?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "É possível validar o estágio com experiência profissional?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Quais são os principais conteúdos abordados no curso?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Quais são os é o perfil esperado do egresso do formação?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Como a internacionalização é promovida no curso?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Que disciplina trata de sustentabilidade no graduação?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Qual é o nome do formação?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Pode-se saber título é conferido ao egresso do formação?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Quantas horas de carga horária mínima o curso possui?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Pode-se saber é a duração média do graduação em semestres?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Que é o turno de funcionamento do formação?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Quantas vagas são ofertadas anualmente no graduação?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Quais são os objetivos gerais do formação?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Quais são os dois eixos de formação optativos do curso?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Quais são os é a carga horária mínima de extensão exigida?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Quais são os componentes da carga horária de extensão?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Quais são os é a carga horária do estágio obrigatório?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Quais são os requisitos para iniciar o estágio obrigatório?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Quais são os critérios de avaliação do estágio obrigatório?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Que é a nota mínima para aprovação na disciplina de estágio?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "O que o aluno deve fazer se não for aprovado na disciplina de estágio?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "É possível validar o estágio com experiência profissional?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Quais são os principais conteúdos abordados no graduação?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Qual é o perfil esperado do egresso do graduação?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Como a internacionalização é promovida no formação?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Quais são os disciplina trata de sustentabilidade no graduação?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Responda, qual é o nome do curso? com detalhes?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Poderia dizer, qual título é conferido ao egresso do curso? com detalhes?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Me diga, quantas horas de carga horária mínima o curso possui? de forma resumida?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Informe, qual é a duração média do curso em semestres? de forma resumida?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Explique, qual é o turno de funcionamento do curso? claramente?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Você sabe, quantas vagas são ofertadas anualmente no curso? com exatidão?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Você sabe, quais são os objetivos gerais do curso? de forma resumida?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Me diga, quais são os dois eixos de formação optativos do curso? claramente?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Informe, qual é a carga horária mínima de extensão exigida? com detalhes?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Me diga, quais são os componentes da carga horária de extensão? com detalhes?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Responda, qual é a carga horária do estágio obrigatório? por favor?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Responda, quais são os requisitos para iniciar o estágio obrigatório? com exatidão?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Me diga, quais são os critérios de avaliação do estágio obrigatório? claramente?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Você sabe, qual é a nota mínima para aprovação na disciplina de estágio? claramente?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "Explique, o que o aluno deve fazer se não for aprovado na disciplina de estágio? claramente?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "Explique, é possível validar o estágio com experiência profissional? claramente?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Responda, quais são os principais conteúdos abordados no curso? com exatidão?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Me diga, qual é o perfil esperado do egresso do curso? precisamente?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Me diga, como a internacionalização é promovida no curso? com detalhes?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Responda, qual disciplina trata de sustentabilidade no curso? claramente?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Informe, qual é o nome do curso? precisamente?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Poderia dizer, qual título é conferido ao egresso do curso? de forma resumida?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Me diga, quantas horas de carga horária mínima o curso possui? por favor?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Me diga, qual é a duração média do curso em semestres? por favor?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Você sabe, qual é o turno de funcionamento do curso? por favor?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Responda, quantas vagas são ofertadas anualmente no curso? por favor?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Responda, quais são os objetivos gerais do curso? com detalhes?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Você sabe, quais são os dois eixos de formação optativos do curso? com detalhes?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Me diga, qual é a carga horária mínima de extensão exigida? por favor?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Me diga, quais são os componentes da carga horária de extensão? por favor?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Me diga, qual é a carga horária do estágio obrigatório? com exatidão?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Explique, quais são os requisitos para iniciar o estágio obrigatório? de forma resumida?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Me diga, quais são os critérios de avaliação do estágio obrigatório? precisamente?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Você sabe, qual é a nota mínima para aprovação na disciplina de estágio? por favor?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "Informe, o que o aluno deve fazer se não for aprovado na disciplina de estágio? com exatidão?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "Você sabe, é possível validar o estágio com experiência profissional? com exatidão?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Me diga, quais são os principais conteúdos abordados no curso? precisamente?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Responda, qual é o perfil esperado do egresso do curso? de forma resumida?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Explique, como a internacionalização é promovida no curso? com detalhes?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Poderia dizer, qual disciplina trata de sustentabilidade no curso? de forma resumida?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Me diga, qual é o nome do curso? precisamente?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Informe, qual título é conferido ao egresso do curso? de forma resumida?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Explique, quantas horas de carga horária mínima o curso possui? com detalhes?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Me diga, qual é a duração média do curso em semestres? com exatidão?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Explique, qual é o turno de funcionamento do curso? com detalhes?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Responda, quantas vagas são ofertadas anualmente no curso? com exatidão?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Responda, quais são os objetivos gerais do curso? por favor?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Você sabe, quais são os dois eixos de formação optativos do curso? por favor?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é a carga horária mínima de extensão exigida? por favor?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Informe, quais são os componentes da carga horária de extensão? com exatidão?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é a carga horária do estágio obrigatório? com exatidão?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Informe, quais são os requisitos para iniciar o estágio obrigatório? com detalhes?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Informe, quais são os critérios de avaliação do estágio obrigatório? com detalhes?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Explique, qual é a nota mínima para aprovação na disciplina de estágio? claramente?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "Você sabe, o que o aluno deve fazer se não for aprovado na disciplina de estágio? claramente?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "Explique, é possível validar o estágio com experiência profissional? por favor?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Poderia dizer, quais são os principais conteúdos abordados no curso? precisamente?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é o perfil esperado do egresso do curso? por favor?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Responda, como a internacionalização é promovida no curso? com exatidão?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Poderia dizer, qual disciplina trata de sustentabilidade no curso? claramente?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Você sabe, qual é o nome do curso? claramente?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Responda, qual título é conferido ao egresso do curso? precisamente?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Poderia dizer, quantas horas de carga horária mínima o curso possui? por favor?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Informe, qual é a duração média do curso em semestres? com detalhes?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Me diga, qual é o turno de funcionamento do curso? com exatidão?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Explique, quantas vagas são ofertadas anualmente no curso? com exatidão?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Poderia dizer, quais são os objetivos gerais do curso? com exatidão?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Poderia dizer, quais são os dois eixos de formação optativos do curso? por favor?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Explique, qual é a carga horária mínima de extensão exigida? com detalhes?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Informe, quais são os componentes da carga horária de extensão? com exatidão?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Você sabe, qual é a carga horária do estágio obrigatório? claramente?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Me diga, quais são os requisitos para iniciar o estágio obrigatório? com exatidão?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Informe, quais são os critérios de avaliação do estágio obrigatório? com exatidão?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Explique, qual é a nota mínima para aprovação na disciplina de estágio? claramente?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "Explique, o que o aluno deve fazer se não for aprovado na disciplina de estágio? com detalhes?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "Responda, é possível validar o estágio com experiência profissional? de forma resumida?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Responda, quais são os principais conteúdos abordados no curso? de forma resumida?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é o perfil esperado do egresso do curso? de forma resumida?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Informe, como a internacionalização é promovida no curso? de forma resumida?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Explique, qual disciplina trata de sustentabilidade no curso? com detalhes?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Me diga, qual é o nome do curso? de forma resumida?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Responda, qual título é conferido ao egresso do curso? claramente?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Informe, quantas horas de carga horária mínima o curso possui? com exatidão?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Me diga, qual é a duração média do curso em semestres? precisamente?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Responda, qual é o turno de funcionamento do curso? de forma resumida?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Você sabe, quantas vagas são ofertadas anualmente no curso? por favor?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Explique, quais são os objetivos gerais do curso? com detalhes?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Poderia dizer, quais são os dois eixos de formação optativos do curso? de forma resumida?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Explique, qual é a carga horária mínima de extensão exigida? por favor?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Me diga, quais são os componentes da carga horária de extensão? com exatidão?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Informe, qual é a carga horária do estágio obrigatório? por favor?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Explique, quais são os requisitos para iniciar o estágio obrigatório? claramente?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Me diga, quais são os critérios de avaliação do estágio obrigatório? por favor?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Informe, qual é a nota mínima para aprovação na disciplina de estágio? claramente?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "Poderia dizer, o que o aluno deve fazer se não for aprovado na disciplina de estágio? precisamente?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "Explique, é possível validar o estágio com experiência profissional? com exatidão?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Explique, quais são os principais conteúdos abordados no curso? claramente?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Você sabe, qual é o perfil esperado do egresso do curso? claramente?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Explique, como a internacionalização é promovida no curso? por favor?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Poderia dizer, qual disciplina trata de sustentabilidade no curso? com exatidão?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Explique, qual é o nome do curso? por favor?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Poderia dizer, qual título é conferido ao egresso do curso? claramente?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Me diga, quantas horas de carga horária mínima o curso possui? com detalhes?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Você sabe, qual é a duração média do curso em semestres? com exatidão?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é o turno de funcionamento do curso? por favor?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Responda, quantas vagas são ofertadas anualmente no curso? com detalhes?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Você sabe, quais são os objetivos gerais do curso? por favor?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Poderia dizer, quais são os dois eixos de formação optativos do curso? com detalhes?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Explique, qual é a carga horária mínima de extensão exigida? claramente?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Você sabe, quais são os componentes da carga horária de extensão? com exatidão?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Informe, qual é a carga horária do estágio obrigatório? de forma resumida?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Você sabe, quais são os requisitos para iniciar o estágio obrigatório? precisamente?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Informe, quais são os critérios de avaliação do estágio obrigatório? por favor?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Você sabe, qual é a nota mínima para aprovação na disciplina de estágio? com exatidão?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "Você sabe, o que o aluno deve fazer se não for aprovado na disciplina de estágio? de forma resumida?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "Poderia dizer, é possível validar o estágio com experiência profissional? de forma resumida?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Informe, quais são os principais conteúdos abordados no curso? de forma resumida?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Me diga, qual é o perfil esperado do egresso do curso? por favor?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Poderia dizer, como a internacionalização é promovida no curso? com detalhes?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Explique, qual disciplina trata de sustentabilidade no curso? claramente?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Explique, qual é o nome do curso? por favor?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Informe, qual título é conferido ao egresso do curso? precisamente?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Explique, quantas horas de carga horária mínima o curso possui? com detalhes?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é a duração média do curso em semestres? precisamente?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é o turno de funcionamento do curso? claramente?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Poderia dizer, quantas vagas são ofertadas anualmente no curso? com exatidão?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Poderia dizer, quais são os objetivos gerais do curso? precisamente?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Informe, quais são os dois eixos de formação optativos do curso? claramente?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Explique, qual é a carga horária mínima de extensão exigida? precisamente?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Você sabe, quais são os componentes da carga horária de extensão? com detalhes?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Explique, qual é a carga horária do estágio obrigatório? precisamente?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Você sabe, quais são os requisitos para iniciar o estágio obrigatório? com exatidão?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Poderia dizer, quais são os critérios de avaliação do estágio obrigatório? com exatidão?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é a nota mínima para aprovação na disciplina de estágio? precisamente?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "Me diga, o que o aluno deve fazer se não for aprovado na disciplina de estágio? com detalhes?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "Responda, é possível validar o estágio com experiência profissional? de forma resumida?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Você sabe, quais são os principais conteúdos abordados no curso? precisamente?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Informe, qual é o perfil esperado do egresso do curso? precisamente?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Me diga, como a internacionalização é promovida no curso? de forma resumida?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Você sabe, qual disciplina trata de sustentabilidade no curso? de forma resumida?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Você sabe, qual é o nome do curso? precisamente?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Me diga, qual título é conferido ao egresso do curso? claramente?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Me diga, quantas horas de carga horária mínima o curso possui? de forma resumida?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é a duração média do curso em semestres? de forma resumida?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Me diga, qual é o turno de funcionamento do curso? com exatidão?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Você sabe, quantas vagas são ofertadas anualmente no curso? com detalhes?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Me diga, quais são os objetivos gerais do curso? de forma resumida?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Responda, quais são os dois eixos de formação optativos do curso? com exatidão?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Explique, qual é a carga horária mínima de extensão exigida? de forma resumida?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Você sabe, quais são os componentes da carga horária de extensão? com exatidão?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é a carga horária do estágio obrigatório? de forma resumida?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Responda, quais são os requisitos para iniciar o estágio obrigatório? com exatidão?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Informe, quais são os critérios de avaliação do estágio obrigatório? com detalhes?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Me diga, qual é a nota mínima para aprovação na disciplina de estágio? com exatidão?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "Informe, o que o aluno deve fazer se não for aprovado na disciplina de estágio? de forma resumida?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "Informe, é possível validar o estágio com experiência profissional? de forma resumida?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Explique, quais são os principais conteúdos abordados no curso? com detalhes?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é o perfil esperado do egresso do curso? de forma resumida?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Explique, como a internacionalização é promovida no curso? de forma resumida?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Poderia dizer, qual disciplina trata de sustentabilidade no curso? de forma resumida?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Você sabe, qual é o nome do curso? claramente?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Você sabe, qual título é conferido ao egresso do curso? com exatidão?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Poderia dizer, quantas horas de carga horária mínima o curso possui? claramente?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Explique, qual é a duração média do curso em semestres? com detalhes?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Me diga, qual é o turno de funcionamento do curso? de forma resumida?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Você sabe, quantas vagas são ofertadas anualmente no curso? precisamente?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Informe, quais são os objetivos gerais do curso? de forma resumida?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Informe, quais são os dois eixos de formação optativos do curso? com exatidão?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Você sabe, qual é a carga horária mínima de extensão exigida? de forma resumida?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Responda, quais são os componentes da carga horária de extensão? claramente?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Explique, qual é a carga horária do estágio obrigatório? de forma resumida?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Informe, quais são os requisitos para iniciar o estágio obrigatório? claramente?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Responda, quais são os critérios de avaliação do estágio obrigatório? com detalhes?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Explique, qual é a nota mínima para aprovação na disciplina de estágio? de forma resumida?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "Me diga, o que o aluno deve fazer se não for aprovado na disciplina de estágio? claramente?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "Responda, é possível validar o estágio com experiência profissional? com detalhes?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Me diga, quais são os principais conteúdos abordados no curso? com exatidão?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Você sabe, qual é o perfil esperado do egresso do curso? com detalhes?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Explique, como a internacionalização é promovida no curso? com exatidão?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Poderia dizer, qual disciplina trata de sustentabilidade no curso? por favor?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é o nome do curso? com detalhes?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Explique, qual título é conferido ao egresso do curso? de forma resumida?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Poderia dizer, quantas horas de carga horária mínima o curso possui? por favor?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Informe, qual é a duração média do curso em semestres? com exatidão?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Me diga, qual é o turno de funcionamento do curso? precisamente?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Responda, quantas vagas são ofertadas anualmente no curso? precisamente?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Me diga, quais são os objetivos gerais do curso? por favor?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Informe, quais são os dois eixos de formação optativos do curso? por favor?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Informe, qual é a carga horária mínima de extensão exigida? por favor?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Informe, quais são os componentes da carga horária de extensão? por favor?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Responda, qual é a carga horária do estágio obrigatório? de forma resumida?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Responda, quais são os requisitos para iniciar o estágio obrigatório? com exatidão?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Poderia dizer, quais são os critérios de avaliação do estágio obrigatório? por favor?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Me diga, qual é a nota mínima para aprovação na disciplina de estágio? com exatidão?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "Explique, o que o aluno deve fazer se não for aprovado na disciplina de estágio? por favor?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "Você sabe, é possível validar o estágio com experiência profissional? de forma resumida?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Me diga, quais são os principais conteúdos abordados no curso? com detalhes?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Informe, qual é o perfil esperado do egresso do curso? claramente?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Poderia dizer, como a internacionalização é promovida no curso? claramente?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Me diga, qual disciplina trata de sustentabilidade no curso? por favor?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Explique, qual é o nome do curso? por favor?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Me diga, qual título é conferido ao egresso do curso? claramente?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Explique, quantas horas de carga horária mínima o curso possui? com detalhes?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Informe, qual é a duração média do curso em semestres? com detalhes?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Explique, qual é o turno de funcionamento do curso? com detalhes?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Informe, quantas vagas são ofertadas anualmente no curso? com detalhes?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Você sabe, quais são os objetivos gerais do curso? precisamente?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Responda, quais são os dois eixos de formação optativos do curso? claramente?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Você sabe, qual é a carga horária mínima de extensão exigida? por favor?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Explique, quais são os componentes da carga horária de extensão? precisamente?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Informe, qual é a carga horária do estágio obrigatório? com detalhes?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Me diga, quais são os requisitos para iniciar o estágio obrigatório? precisamente?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Responda, quais são os critérios de avaliação do estágio obrigatório? com detalhes?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Você sabe, qual é a nota mínima para aprovação na disciplina de estágio? claramente?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "Você sabe, o que o aluno deve fazer se não for aprovado na disciplina de estágio? claramente?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "Poderia dizer, é possível validar o estágio com experiência profissional? claramente?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Informe, quais são os principais conteúdos abordados no curso? precisamente?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Explique, qual é o perfil esperado do egresso do curso? de forma resumida?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Me diga, como a internacionalização é promovida no curso? precisamente?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Me diga, qual disciplina trata de sustentabilidade no curso? de forma resumida?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Responda, qual é o nome do curso? por favor?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Responda, qual título é conferido ao egresso do curso? com detalhes?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Explique, quantas horas de carga horária mínima o curso possui? de forma resumida?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Informe, qual é a duração média do curso em semestres? por favor?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Me diga, qual é o turno de funcionamento do curso? de forma resumida?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Você sabe, quantas vagas são ofertadas anualmente no curso? por favor?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Me diga, quais são os objetivos gerais do curso? de forma resumida?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Me diga, quais são os dois eixos de formação optativos do curso? por favor?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Você sabe, qual é a carga horária mínima de extensão exigida? com exatidão?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Você sabe, quais são os componentes da carga horária de extensão? de forma resumida?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Explique, qual é a carga horária do estágio obrigatório? claramente?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Você sabe, quais são os requisitos para iniciar o estágio obrigatório? de forma resumida?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Explique, quais são os critérios de avaliação do estágio obrigatório? com exatidão?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Explique, qual é a nota mínima para aprovação na disciplina de estágio? claramente?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "Explique, o que o aluno deve fazer se não for aprovado na disciplina de estágio? de forma resumida?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "Explique, é possível validar o estágio com experiência profissional? precisamente?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Você sabe, quais são os principais conteúdos abordados no curso? claramente?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Me diga, qual é o perfil esperado do egresso do curso? de forma resumida?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Me diga, como a internacionalização é promovida no curso? por favor?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Explique, qual disciplina trata de sustentabilidade no curso? de forma resumida?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é o nome do curso? claramente?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Poderia dizer, qual título é conferido ao egresso do curso? por favor?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Informe, quantas horas de carga horária mínima o curso possui? de forma resumida?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Explique, qual é a duração média do curso em semestres? por favor?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Explique, qual é o turno de funcionamento do curso? claramente?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Explique, quantas vagas são ofertadas anualmente no curso? precisamente?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Explique, quais são os objetivos gerais do curso? claramente?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Você sabe, quais são os dois eixos de formação optativos do curso? claramente?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Você sabe, qual é a carga horária mínima de extensão exigida? claramente?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Explique, quais são os componentes da carga horária de extensão? por favor?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Explique, qual é a carga horária do estágio obrigatório? precisamente?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Me diga, quais são os requisitos para iniciar o estágio obrigatório? de forma resumida?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Explique, quais são os critérios de avaliação do estágio obrigatório? de forma resumida?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Informe, qual é a nota mínima para aprovação na disciplina de estágio? com detalhes?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "Informe, o que o aluno deve fazer se não for aprovado na disciplina de estágio? por favor?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "Responda, é possível validar o estágio com experiência profissional? com exatidão?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Me diga, quais são os principais conteúdos abordados no curso? de forma resumida?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Informe, qual é o perfil esperado do egresso do curso? de forma resumida?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Informe, como a internacionalização é promovida no curso? claramente?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Poderia dizer, qual disciplina trata de sustentabilidade no curso? com detalhes?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  },
+  {
+    "pergunta": "Você sabe, qual é o nome do curso? de forma resumida?",
+    "resposta": "Engenharia de Computação"
+  },
+  {
+    "pergunta": "Responda, qual título é conferido ao egresso do curso? com detalhes?",
+    "resposta": "Bacharel em Engenharia de Computação"
+  },
+  {
+    "pergunta": "Informe, quantas horas de carga horária mínima o curso possui? com detalhes?",
+    "resposta": "3895 horas"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é a duração média do curso em semestres? claramente?",
+    "resposta": "10 semestres"
+  },
+  {
+    "pergunta": "Explique, qual é o turno de funcionamento do curso? claramente?",
+    "resposta": "Integral"
+  },
+  {
+    "pergunta": "Responda, quantas vagas são ofertadas anualmente no curso? precisamente?",
+    "resposta": "40 vagas"
+  },
+  {
+    "pergunta": "Me diga, quais são os objetivos gerais do curso? com exatidão?",
+    "resposta": "Colaborar para o desenvolvimento da sociedade nos âmbitos tecnológico, científico, econômico e intelectual"
+  },
+  {
+    "pergunta": "Informe, quais são os dois eixos de formação optativos do curso? precisamente?",
+    "resposta": "Sistemas Eletrônicos Integrados (SEI) e Sistemas Ciberfísicos (SCF)"
+  },
+  {
+    "pergunta": "Informe, qual é a carga horária mínima de extensão exigida? de forma resumida?",
+    "resposta": "390 horas"
+  },
+  {
+    "pergunta": "Poderia dizer, quais são os componentes da carga horária de extensão? com detalhes?",
+    "resposta": "60 horas de disciplinas obrigatórias de extensão e 330 horas de ACEx"
+  },
+  {
+    "pergunta": "Responda, qual é a carga horária do estágio obrigatório? com exatidão?",
+    "resposta": "160 horas"
+  },
+  {
+    "pergunta": "Informe, quais são os requisitos para iniciar o estágio obrigatório? com detalhes?",
+    "resposta": "Concluir todas as disciplinas obrigatórias e contabilizar 390 horas de extensão"
+  },
+  {
+    "pergunta": "Me diga, quais são os critérios de avaliação do estágio obrigatório? com detalhes?",
+    "resposta": "50% pelo orientador e 50% pelo supervisor"
+  },
+  {
+    "pergunta": "Me diga, qual é a nota mínima para aprovação na disciplina de estágio? com detalhes?",
+    "resposta": "Nota final igual ou superior a 7,0"
+  },
+  {
+    "pergunta": "Poderia dizer, o que o aluno deve fazer se não for aprovado na disciplina de estágio? precisamente?",
+    "resposta": "Deve cursar novamente a disciplina"
+  },
+  {
+    "pergunta": "Informe, é possível validar o estágio com experiência profissional? claramente?",
+    "resposta": "Sim, com pelo menos 160 horas de atividade profissional comprovada"
+  },
+  {
+    "pergunta": "Informe, quais são os principais conteúdos abordados no curso? por favor?",
+    "resposta": "Matemática, Física, Química, Algoritmos, Programação, Engenharia Econômica, Sustentabilidade, entre outros"
+  },
+  {
+    "pergunta": "Poderia dizer, qual é o perfil esperado do egresso do curso? precisamente?",
+    "resposta": "Profissional com visão holística, técnica e humanista, capaz de resolver problemas de engenharia"
+  },
+  {
+    "pergunta": "Me diga, como a internacionalização é promovida no curso? de forma resumida?",
+    "resposta": "Com disciplinas bilíngues, mobilidade acadêmica e dupla titulação"
+  },
+  {
+    "pergunta": "Informe, qual disciplina trata de sustentabilidade no curso? por favor?",
+    "resposta": "Meio Ambiente e Sustentabilidade na Engenharia"
+  }
+]
